@@ -18,7 +18,7 @@ A simple and user-friendly To-Do List web app built using **HTML**, **CSS**, and
 ## 📸 Live Demo
 
 Check out the live version of this project here:  
-🔗 [View Live](https://vercel.com/nikhil1124s-projects/todo-application)
+🔗 [View Live]([https://vercel.com/nikhil1124s-projects/todo-application](https://todo-application-topaz.vercel.app))
 ---
 
 ## 🛠️ Built With
